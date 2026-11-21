@@ -5,23 +5,23 @@ class Ig < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.1/ig-0.1.1-aarch64-apple-darwin.tar.gz"
-      sha256 "3a13fa9d770677812ef6a9bb3cc91dd59416a84a3459cd751f133cd634dbe268"
+      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.2/ig-0.1.2-aarch64-apple-darwin.tar.gz"
+      sha256 "0fb2ab305b868182b442d5a18b10adb7a66052c2b34056b892e68896c03c604f"
     end
     on_intel do
-      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.1/ig-0.1.1-x86_64-apple-darwin.tar.gz"
-      sha256 "1801a00998ac4c43badfe2eeeaa12c48fa03a4c48626ce370d772df7ebafa8ad"
+      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.2/ig-0.1.2-x86_64-apple-darwin.tar.gz"
+      sha256 "fe5c38f35dc5accb32b574113b22aae4a4186799ee8382b8571ef15dd5867197"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.1/ig-0.1.1-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "6c54eec7ff02e282754b832dc8593742d23ab5b965a28e93fa3350fef278723f"
+      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.2/ig-0.1.2-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "406ca6007d7086b97566b6775e9d6b60b99754a9dca2ebc1f5816923a527d9cc"
     end
     on_intel do
-      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.1/ig-0.1.1-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "2c5bff87c8a7baf2e7beffac6e8f720bd3bf064fe148c051c3bedb88b3c60cd5"
+      url "https://github.com/mrzdevcore/intent-graph/releases/download/v0.1.2/ig-0.1.2-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "09333e4630f2715e0f94b8cf06b08c8307ce676f515cb640b4f7c900af517e53"
     end
   end
 
